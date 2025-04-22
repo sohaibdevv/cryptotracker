@@ -3,7 +3,8 @@
 .hero-section {
   width: 100%;
   height: 100vh;
-  background-image: linear-gradient(to top, $bg-black 30%, #130749 70%);
+  // background: linear-gradient(to top, #000000 30%, #111111 70%);
+  background: linear-gradient(to top, #000000 30%, #121212 70%);
 }
 
 .hero-content {
@@ -12,9 +13,11 @@
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
+  height: 10%;
 
   @media (max-width: 750px) {
     top: 8.5%;
+    height: 5%;
   }
 
   @media (max-width: 400px) {
@@ -183,7 +186,7 @@
   justify-content: center;
   gap: 1rem;
   padding: 2rem 4rem;
-  background: linear-gradient(25deg, #2600fc, #ff00ea);
+  background: linear-gradient(25deg, #2600fc);
   color: #f3f2f4;
   border-radius: 10rem;
   transition: all 0.2s;

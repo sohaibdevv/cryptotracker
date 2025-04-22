@@ -62,12 +62,6 @@ function Navbar() {
           <li onClick={openMobile}>
             <a href="#market">Market</a>
           </li>
-          <li onClick={openMobile}>
-            <a href="#choose-us">Choose Us</a>
-          </li>
-          <li onClick={openMobile}>
-            <a href="#join">Join</a>
-          </li>
         </ul>
       </div>
     </>
