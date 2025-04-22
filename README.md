@@ -1,6 +1,6 @@
 # CryptoTracker - Stay Ahead Of The Curve
 
-## Live Demo: [Here!](https://cryptotracker.netlify.app/)
+## Live Demo: [Here!](https://cryptotracker-sohaibdevv.netlify.app/)
 
 The code repository for the **new and improved CryptoTracker website**, designed for easier navigation and use for those interested in **learning about cryptocurrencies**.
 
