@@ -1,6 +1,4 @@
 import {
-  IconBrandDiscord,
-  IconBrandTwitter,
   IconMenu2,
   IconX,
 } from "@tabler/icons-react";
@@ -46,16 +44,8 @@ function Navbar() {
             <li>
               <a href="#market">Market</a>
             </li>
-            <li>
-              <a href="#choose-us">Choose Us</a>
-            </li>
-            <li>
-              <a href="#join">Join</a>
-            </li>
           </ul>
           <span>
-            <IconBrandTwitter />
-            <IconBrandDiscord />
             {/* mobile */}
             <IconMenu2 onClick={openMobile} className="hamburger-menu" />
           </span>
