@@ -1,12 +1,20 @@
-# CryptoTracker - Stay Ahead Of The Curve
+<h1>CryptoTracker - Stay Ahead Of The Curve</h1>
 
-## Live Demo: [Here!](https://cryptotracker-sohaibdevv.netlify.app/)
+<h2>Live Demo: <a href="https://cryptotracker-sohaibdevv.netlify.app/" rel="noopener noreferrer">Here!</a></h2>
 
-The code repository for the **new and improved CryptoTracker website**, designed for easier navigation and use for those interested in **learning about cryptocurrencies**.
+<p>
+  The code repository for the <b>new and improved CryptoTracker website</b>, designed for easier navigation and use for those interested in <b>learning about cryptocurrencies</b>.
+</p>
 
-**CryptoTracker** is a website that lets you **find up-to-date information about different online currencies**. It shows you things like the **current price, how much all the coins are worth together, how much is being traded, and other important details**.
+<p>
+  <b>CryptoTracker</b> is a website that lets you <b>find up-to-date information about different online currencies</b>. It shows you things like the <b>current price, how much all the coins are worth together, how much is being traded, and other important details</b>.
+</p>
 
-To get this information, the website uses something called the **CoinGecko API**. Think of it as a **source that has lots of information about many different cryptocurrencies**. CoinGecko gives us **data** like the **current price** and the total value of each **currency**. By using this, **CryptoTracker can give you the latest info on crypto prices and what's happening in the market**.
+<p>
+  To get this information, the website uses something called the <b>CoinGecko API</b>. Think of it as a <b>source that has lots of information about many different cryptocurrencies</b>. CoinGecko gives us <b>data</b> like the <b>current price</b> and the total value of each <b>currency</b>. By using this, <b>CryptoTracker can give you the latest info on crypto prices and what's happening in the market</b>.
+</p>
 
-## Technologies Used
-[![My Skills](https://skillicons.dev/icons?i=react,scss,git,netlify)](https://skillicons.dev)
+<h2>Technologies Used</h2>
+<a href="https://skillicons.dev/icons?i=react,scss,git,netlify" rel="nofollow">
+  <img src="https://skillicons.dev/icons?i=react,scss,git,netlify" alt="Sohaib Malik's CryptoTracker Technologies: React, SCSS, Git, and Netlify">
+</a>
